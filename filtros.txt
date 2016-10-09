@@ -1,0 +1,5 @@
+mrpiracy.*##script:contains(<!--)
+mrpiracy.*##center[style="padding-top: 20;margin: 0 auto;width: 980px;padding-bottom: 20;"]
+ratotv.*###tvdasogra
+ratotv.*###message
+ratotv.*###opcao1
