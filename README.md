@@ -4,7 +4,7 @@
 Alguns filtros para usar no adblockPlus/ublock etc... Para remover ads e some crap.
 
 
-Sites
+**Sites**
 
-MrPiracy
-Ratotv
+ - MrPiracy
+ - Ratotv
