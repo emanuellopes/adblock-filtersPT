@@ -3,3 +3,8 @@ mrpiracy.*##center[style="padding-top: 20;margin: 0 auto;width: 980px;padding-bo
 ratotv.*###tvdasogra
 ratotv.*###message
 ratotv.*###opcao1
+
+tugaflix.*##div[id^="videobplayer_"]
+
+
+For using in stylish
