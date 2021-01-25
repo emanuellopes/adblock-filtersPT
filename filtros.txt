@@ -10,4 +10,4 @@ tugaflix.*##div[id^="videobplayer_"]
 TVI NONIo
 ###wrapperContentGatingNonio
 ##.fc-ab-root
-For using in stylish
+tvi24.iol.pt##body:style(overflow: auto !important)
